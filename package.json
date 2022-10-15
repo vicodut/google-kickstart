@@ -1,0 +1,12 @@
+{
+  "name": "google-kickstart",
+  "version": "1.0.0",
+  "description": "Google Kickstart",
+  "scripts": {
+    "2022_walktober": "node ./2022/walktober",
+    "2022_curling": "node ./2022/curling",
+    "2022_subarrays": "node ./2022/subarrays"
+  },
+  "author": "victor duteurtre",
+  "license": "ISC"
+}
